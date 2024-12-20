@@ -1,6 +1,24 @@
 {
   "pins" : [
     {
+      "identity" : "OpenSSL",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/OpenSSL",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8729614a93e6b20307db3c3359aed81f030facaa"
+      }
+    },
+    {
+      "identity" : "openssl-apple",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/passepartoutvpn/openssl-apple",
+      "state" : {
+        "revision" : "026702febcaebcbf9ea68f2fa66b017eba998cdf",
+        "version" : "3.2.105"
+      }
+    },
+    {
       "identity" : "swiftybeaver",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SwiftyBeaver/SwiftyBeaver",
