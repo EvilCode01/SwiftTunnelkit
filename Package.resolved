@@ -1,15 +1,6 @@
 {
   "pins" : [
     {
-      "identity" : "OpenSSL",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/krzyzanowskim/OpenSSL",
-      "state" : {
-        "branch" : "main",
-        "revision" : "8729614a93e6b20307db3c3359aed81f030facaa"
-      }
-    },
-    {
       "identity" : "swiftybeaver",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SwiftyBeaver/SwiftyBeaver",
